@@ -1,0 +1,10 @@
+transformers
+transformers[sentencepiece]
+datasets
+sacreblue
+rouge_score
+pandas
+py7zr
+nltk
+tqdm
+PyY
